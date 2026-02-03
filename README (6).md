@@ -1,6 +1,7 @@
 # GDP Dashboard
 
 > A simple interactive dashboard built with Streamlit to visualize GDP data from countries around the world.
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 
 ## 🧠 Project Overview
 
